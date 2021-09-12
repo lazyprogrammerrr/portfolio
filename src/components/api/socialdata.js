@@ -1,0 +1,27 @@
+export const Social = [
+{
+    platform:"github",
+    link:"https://github.com/lazyprogrammerrr",
+    icon:require('../../assests/github.png').default
+},
+{
+    platform:"linkedin",
+    link:"https://www.linkedin.com/in/aakash-sharma-16b09a7b/",
+    icon:require('../../assests/linkedin.png').default
+},
+{
+    platform:"instagram",
+    link:"https://www.instagram.com/kaashu097/",
+    icon:require('../../assests/instagram.png').default
+},
+{
+    platform:"facebook",
+    link:"https://www.facebook.com/Aakashsharma097/",
+    icon:require('../../assests/facebook.png').default
+},
+{
+    platform:"twitter",
+    link:"https://twitter.com/kaashu097",
+    icon:require('../../assests/twitter.png').default
+}
+];
