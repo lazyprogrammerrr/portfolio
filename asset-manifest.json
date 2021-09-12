@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.91b06455.chunk.css",
+    "main.js": "/portfolio/static/js/main.6c1438d6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6c1438d6.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.33034053.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.33034053.js.map",
+    "static/js/2.366a20fa.chunk.js": "/portfolio/static/js/2.366a20fa.chunk.js",
+    "static/js/2.366a20fa.chunk.js.map": "/portfolio/static/js/2.366a20fa.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.91b06455.chunk.css.map": "/portfolio/static/css/main.91b06455.chunk.css.map",
+    "static/js/2.366a20fa.chunk.js.LICENSE.txt": "/portfolio/static/js/2.366a20fa.chunk.js.LICENSE.txt",
+    "static/media/AakashResume.pdf": "/portfolio/static/media/AakashResume.9b63ba76.pdf",
+    "static/media/Programming.gif": "/portfolio/static/media/Programming.d4fb2f26.gif",
+    "static/media/project-1.PNG": "/portfolio/static/media/project-1.53b7ed7e.PNG",
+    "static/media/project-2.png": "/portfolio/static/media/project-2.c4e3e35d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33034053.js",
+    "static/js/2.366a20fa.chunk.js",
+    "static/css/main.91b06455.chunk.css",
+    "static/js/main.6c1438d6.chunk.js"
+  ]
+}
