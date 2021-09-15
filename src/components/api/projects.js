@@ -14,5 +14,13 @@ export const ProjectData = [
         tags:["REACT JS","HTML","CSS","BOOTSTRAP","FIREBASE"],
         github:'https://github.com/lazyprogrammerrr/PayZ',
         img:require('../../assests/project-2.png').default
+    },
+    {
+        id:3,
+        title:"Tech Blog",
+        about:"Objective of this project is to Blog about new Technologies and various niche & also showcase my skills and understanding of various Technologies I have worked on.",
+        tags:["FLASK","HTML","CSS","BOOTSTRAP","JAVASCRIPT","MySQL"],
+        github:'https://github.com/lazyprogrammerrr/TechBlog',
+        img:require('../../assests/project-3.PNG').default
     }
 ]
